@@ -1,4 +1,4 @@
 # example
-Demo Repo for Course
+Demo Repo for Course.
 
 New line of readme.
